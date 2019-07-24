@@ -1,0 +1,34 @@
+ {
+    NrAccount: "123-756-888",
+    NrCCI: "XXX-XXX-1235",
+    Details: [
+      {
+        key: "1",
+        text: "Saldo Contable",
+      },
+      {
+        key: "2",
+        text: "Saldo Disponible",
+
+      }
+    ],
+    Movements:[
+      {
+        key: "1",
+        value: "S/400",
+        day: "01",
+        doa: "XXXX",
+        history: "Transporte",
+        valueMovement: "8.0"
+
+      },
+      {
+        key: "2",
+        value: "S/1000",
+        day: "01",
+        doa: "XXXX",
+        history: "Transporte",
+        valueMovement: "8.0"
+      }
+   ]
+}
